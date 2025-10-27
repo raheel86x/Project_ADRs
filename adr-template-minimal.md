@@ -19,5 +19,10 @@ Chosen option: "{title of option 1}", because {justification. e.g., only option,
 ### Consequences
 
 * Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
+
 * Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
 * … <!-- numbers of consequences can vary -->
+
+## Reference
+
+https://github.com/adr/madr/blob/4.0.0/template/adr-template-minimal.md
